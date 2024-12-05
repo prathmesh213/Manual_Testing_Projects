@@ -5,9 +5,9 @@ This repository contains a list of all the projects completed during my manual t
 
 | Project Name | Description | Tools Used |
 |--------------|-------------|------------|
-| Project 1    | Tested a web application for functionality and usability. | JIRA, Selenium, TestRail |
-| Project 2    | Tested a mobile application for compatibility across different devices. | Appium, TestLink |
-| Project 3    | Tested a desktop application for security vulnerabilities. | Burp Suite, Nessus, ZAP |
+| app.vwo Website     | Tested a web application for functionality and usability. | JIRA, Selenium |
+| OrangeHRM web application    | Tested a web application for functionality and usability|  JIRA |
+
 
 ## Getting Started
 
@@ -65,7 +65,4 @@ Test Plan
 I have created a Test Plan for the Project
 
 Project name: 
-What.
-
-dad
 
