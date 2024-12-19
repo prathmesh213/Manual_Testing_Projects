@@ -27,7 +27,6 @@ You can copy and paste this code into a Markdown file and modify the text as nee
 
 
 
-
 ## Templates
 - Test Plan
 - Test Cases
