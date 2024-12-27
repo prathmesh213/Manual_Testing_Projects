@@ -4,7 +4,7 @@ This project contains key manual testing documents for the app.vwo project. Each
 
 | **Document Type**                  | **Description**                                                                                           | **Download Link (XLS)**                                  |
 |------------------------------------|-----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
-| **Test Plan**                      | Outlines the testing approach, objectives, scope, and schedule.                                             | [Download Test Plan](./Test-Plan/Test-Plan.xls)            |
+| **Test Plan**                      | Outlines the testing approach, objectives, scope, and schedule.                                             | [Download Test Plan](https://github.com/prathmesh213/Software-Testing-Projects-/raw/refs/heads/main/Project%201%20-%20app.vwo.com/Test%20cases_app.vwo.com.xlsx)            |
 | **Test Cases**                     | Comprehensive list of test cases for various scenarios (includes multiple sheets).                          | [Download Test Cases](./Test-Cases/Test-Cases.xls)         |
 | **Bug Report**                     | Lists identified bugs with descriptions, severity, and status.                                              | [Download Bug Report](./Bug-Reports/Bug-Report.xls)        |
 | **Requirement Traceability Matrix**| Maps requirements to test cases to ensure coverage and traceability.                                       | [Download RTM](./RTM/RTM.xls)                              |
