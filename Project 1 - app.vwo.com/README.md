@@ -1,4 +1,4 @@
-# Project 1 - app.vwo
+# Project 1 - app.vwo.com
 
 This project contains key manual testing documents for the app.vwo project. Each document is available in Excel (`.xls`) format, and descriptions are provided for easy understanding.
 
