@@ -17,3 +17,4 @@ This project contains key manual testing documents for the app.vwo project. Each
 
 ## About the Project
 This project follows a structured manual testing approach, covering key processes from test planning to bug reporting and metrics tracking, ensuring comprehensive coverage of app.vwo functionality.
+
